@@ -7,4 +7,5 @@ public interface Actualizable {
      * sesión y actualiza los JLabels de la interfaz.
      */
     void actualizarNombreEnUI();
+    /////////
 }
